@@ -1,2 +1,3 @@
 What is Git?
 Git is a distributed version control system which helps us to manage, colaborate and maintain the source code efficiently.
+We can have a copy of repop on local machine and modify it without having worry of central server  connection and once we makde the changes we can push it to the central repo.
